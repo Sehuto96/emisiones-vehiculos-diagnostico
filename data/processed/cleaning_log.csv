@@ -1,0 +1,11 @@
+tabla,paso,filas,columnas,nulos,memoria_mb
+co2_canada,0 crudo,7385,12,0,2.5
+co2_canada,1 sin duplicados,6282,12,0,2.1
+co2_canada,2 texto y duplicados implícitos,5988,12,0,2.0
+co2_canada,3 transmisión y grupo,5988,15,224,2.7
+co2_canada,4 tipos,5988,15,224,0.5
+epa,0 crudo,50407,84,543858,82.3
+epa,1 sin duplicados,50367,84,543410,82.3
+epa,2 columnas útiles,50367,17,48016,27.3
+epa,"3 valores, texto y categorías",50367,22,39304,35.0
+epa,4 tipos,50367,22,39304,5.8
